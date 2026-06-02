@@ -1,10 +1,10 @@
-# 🤖 A.D.A - Pocket AI
+# 🤖 L.O.G.I.C. - Pocket AI
 
 <p align="center">
   <img src="gui/assets/logo.png" alt="A.D.A Logo" width="120" height="120">
 </p>
 
-**A.D.A** (Advanced Digital Assistant) is a **fully local, privacy-focused AI assistant** for Windows. It combines a beautiful modern GUI with powerful voice control capabilities—all running entirely on YOUR computer with no cloud dependency.
+**L.O.G.I.C.** (Legally Operative Gimmickly Intelligent Code) is a **fully local, privacy-focused AI assistant** that you can run on mac and windows. It's GUI needs fixing.
 
 > 🔒 **Your data stays on your machine.** No API keys required for core functionality. No subscriptions. No data collection.
 
