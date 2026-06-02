@@ -128,7 +128,7 @@ python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
 python main.py
 ```
 
-🎉 **That's it!** L.O.G.I.C. will launch with a beautiful GUI.
+🎉 **That's it!** L.O.G.I.C. will launch with a GUI I will update so it's different from now.
 
 ---
 
