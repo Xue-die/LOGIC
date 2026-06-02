@@ -1,8 +1,4 @@
-# 🤖 L.O.G.I.C. - Pocket AI
-
-<p align="center">
-  <img src="gui/assets/logo.png" alt="A.D.A Logo" width="120" height="120">
-</p>
+# 🤖 L.O.G.I.C.
 
 **L.O.G.I.C.** (Legally Operative Gimmickly Intelligent Code) is a **fully local, privacy-focused AI assistant** that you can run on mac and windows. It's GUI needs fixing.
 
@@ -53,7 +49,7 @@ Before you begin, make sure you have:
 
 ## 🚀 Quick Start Guide
 
-Follow these steps to get A.D.A running on your system.
+Follow these steps to get L.O.G.I.C. running on your system.
 
 ### Step 1: Install Miniconda
 
@@ -99,10 +95,10 @@ git clone https://github.com/your-username/pocket_ai.git
 cd pocket_ai
 
 # Create a conda environment
-conda create -n ada python=3.11 -y
+conda create -n logic python=3.11 -y
 
 # Activate the environment
-conda activate ada
+conda activate logic
 
 # Install dependencies
 pip install -r requirements.txt
@@ -132,13 +128,13 @@ python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
 python main.py
 ```
 
-🎉 **That's it!** A.D.A will launch with a beautiful GUI.
+🎉 **That's it!** L.O.G.I.C. will launch with a beautiful GUI.
 
 ---
 
 ## 🎮 GPU Acceleration
 
-A.D.A benefits greatly from GPU acceleration. Here's what runs on your GPU:
+L.O.G.I.C. benefits greatly from GPU acceleration. Here's what runs on your GPU:
 
 | Component | GPU Benefit | Without GPU |
 |-----------|-------------|-------------|
@@ -177,13 +173,13 @@ The following models are **downloaded automatically** on first run—no manual s
 
 ## 🎙️ Voice Assistant Setup
 
-A.D.A includes Alexa-like voice control with wake word detection.
+L.O.G.I.C. includes Alexa-like voice control with wake word detection.
 
 ### How It Works
 
 1. Say **"Jarvis"** to wake the assistant
 2. Speak your command naturally
-3. A.D.A processes your request and responds
+3. L.O.G.I.C. processes your request and responds
 
 ### Example Voice Commands
 
@@ -329,7 +325,7 @@ pocket_ai/
 
 ## 🏠 Smart Home Integration
 
-A.D.A supports **TP-Link Kasa** smart devices:
+L.O.G.I.C. supports **TP-Link Kasa** smart devices:
 
 ### Supported Devices
 
@@ -340,7 +336,7 @@ A.D.A supports **TP-Link Kasa** smart devices:
 ### Setup
 
 1. Ensure your Kasa devices are on the same network as your computer
-2. Open A.D.A and go to the **Home Automation** tab
+2. Open L.O.G.I.C. and go to the **Home Automation** tab
 3. Click **Refresh** to scan for devices
 4. Control devices through the GUI or voice commands
 
