@@ -10,7 +10,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🎤 **Voice Control** | Wake word detection ("Jarvis") with natural language commands |
+| 🎤 **Voice Control** | Wake word detection ("Logic") with natural language commands |
 | 💬 **AI Chat** | Interactive chat with local LLMs via Ollama with streaming responses |
 | 🏠 **Smart Home** | Control TP-Link Kasa smart lights and plugs from the app |
 | 📅 **Planner** | Manage calendar events, alarms, and timers |
